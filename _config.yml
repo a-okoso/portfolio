@@ -1,9 +1,13 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-show_downloads: false
+  - jekyll-remote-theme
 
 title: Ayano Okoso
-description: |
-  Researcher @ Toyota Central R&D Labs., Inc.  
-  Ph.D. student @　The University of Tokyo
+description: >
+  Researcher @ Toyota Central R&D Labs., Inc.<br>
+  Ph.D. student @ The University of Tokyo
+show_downloads: false
+
+# Add custom CSS
+include:
+  - assets/css/style.css
