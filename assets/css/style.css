@@ -2,9 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-.page-header>.project-tagline {
-  display:none;
-}
-.page-header>a.btn {
-  display:none;
+.github-corner {
+  visibility: hidden;
+  display: none !important;
 }
