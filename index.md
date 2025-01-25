@@ -21,8 +21,12 @@ My research interests are in **Human-AI Collaboration** and **Human-AI Interacti
 
 ### Peer-Reviewed Conference Proceedings
 - [Toward Tone-Aware Explanations in Recommender Systems](https://dl.acm.org/doi/10.1145/3627043.3659572)  
-  Ayano Okoso, Keisuke Otaki, Satoshi Koide, Yukino Baba
-  UMAP 2024
+  Ayano Okoso, Keisuke Otaki, Satoshi Koide, Yukino Baba  
+  ACM UMAP 2024
+
+- [High density automated valet parking via multi-agent path finding](https://ieeexplore.ieee.org/document/9922035)
+  Ayano Okoso, Keisuke Otaki, Satoshi Koide, Tomoki Nishi
+  IEEE ITSC 2022
 
 
 ### Other Publications
