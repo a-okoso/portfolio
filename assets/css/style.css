@@ -1,3 +1,10 @@
-.github-corner {
-  display: none;
+---
+---
+
+@import "{{ site.theme }}";
+.page-header>.project-tagline {
+  display:none;
+}
+.page-header>a.btn {
+  display:none;
 }
