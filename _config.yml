@@ -11,3 +11,18 @@ show_downloads: false
 # Add custom CSS
 include:
   - assets/css/style.css
+
+# ナビゲーションバーのリンク設定
+navbar:
+  - title: About Me
+    url: "#about-me"
+  - title: Publications
+    url: "#publications"
+  - title: Awards
+    url: "#awards"
+  - title: Education
+    url: "#education"
+  - title: Work Experience
+    url: "#work-experience"
+  - title: Others
+    url: "#others"
