@@ -2,7 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-.github-corner {
-  visibility: hidden;
+
+footer {
+  display: none !important;
+}
+
+.btn {
   display: none !important;
 }
