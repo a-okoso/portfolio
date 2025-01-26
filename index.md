@@ -14,10 +14,10 @@
 My research interests are in **Human-AI Collaboration** and **Human-AI Interaction**.
 
 
-## Publications
+## \# Publications
 <a id="publications"></a>
 
-### Peer-Reviewed Journals
+### \#\# Peer-Reviewed Journals
 - [High-Dimensional Slider-based Preferential Bayesian Optimization with Mixed Local and Global Acquisition Strategies](https://ieeexplore.ieee.org/document/10577753?denied=)  
   Satoshi Koide, Ayano Okoso  
   IEEE ACESS (2024)  
@@ -42,7 +42,7 @@ My research interests are in **Human-AI Collaboration** and **Human-AI Interacti
 
   
 
-### Peer-Reviewed Conference Proceedings
+### \#\# Peer-Reviewed Conference Proceedings
 - [Toward Tone-Aware Explanations in Recommender Systems](https://dl.acm.org/doi/10.1145/3627043.3659572)  
   Ayano Okoso, Keisuke Otaki, Satoshi Koide, Yukino Baba  
   ACM UMAP 2024  
@@ -100,7 +100,7 @@ My research interests are in **Human-AI Collaboration** and **Human-AI Interacti
   ACM AH 2014  
 
 
-### Other Publications
+### \#\# Other Publications
 - [Impact of Tone-Aware Explanations in Recommender Systems](https://arxiv.org/pdf/2405.05061)  
   Ayano Okoso, Keisuke Otaki, Satoshi Koide, Yukino Baba  
   arXiv preprint (2024)  
@@ -164,18 +164,18 @@ My research interests are in **Human-AI Collaboration** and **Human-AI Interacti
 
 
 
-## Awards
+## \# Awards
 <a id="awards"></a>
 
 
-## Education
+## \# Education
 <a id="education"></a>
 
 
-## Work Experience
+## \# Work Experience
 <a id="work-experience"></a>
 
 
-## Others
+## \# Others
 <a id="others"></a>
 
