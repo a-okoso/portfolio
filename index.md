@@ -162,20 +162,25 @@ My research interests are in **Human-AI Collaboration** and **Human-AI Interacti
   
 
 
-
-
-## \# Awards
+## \# Awards 🏆 
 <a id="awards"></a>
+- Webインテリジェンスとインタラクション研究会 2023 萌芽研究賞
+- 情報処理学会 2020年度論文賞
+- 情報処理学会 2019年度特選論文
+- JAWS2019 優秀ポスター発表賞
 
 
 ## \# Education
 <a id="education"></a>
-
+- 2023年 4月〜 東京大学大学院 総合文化研究科 後期博士課程 在籍中
+- 2017年 3月 大阪府立大学大学院 工学研究科 電気情報系専攻 知能情報工学分野 修了
+- 2015年 3月 大阪府立大学 工学部 知能情報工学科 卒
+- 2014年 10月〜12月 ドイツ人工知能研究センター（DFKI）
 
 ## \# Work Experience
 <a id="work-experience"></a>
-
+- 2017年 4月〜 株式会社豊田中央研究所
 
 ## \# Others
 <a id="others"></a>
-
+- JSAI全国大会 2025 オーガナイズドセッション委員
