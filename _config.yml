@@ -13,7 +13,7 @@ include:
   - assets/css/style.css
 
 # ナビゲーションバーのリンク設定
-navbar:
+top-navbar:
   - title: About Me
     url: "#about-me"
   - title: Publications
