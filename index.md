@@ -1,5 +1,4 @@
-<!-- 
-<div class="navbar">
+<div class="top-navbar">
   <a href="#about-me">About Me</a>
   <a href="#publications">Publications</a>
   <a href="#awards">Awards</a>
@@ -7,7 +6,6 @@
   <a href="#work-experience">Work Experience</a>
   <a href="#others">Others</a>
 </div>
--->
 
 ## \# About Me
 <a id="about-me"></a>
