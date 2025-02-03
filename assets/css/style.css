@@ -12,28 +12,29 @@ footer {
 }
 
 .top-navbar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background-color: red; /* #ffffff; */
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  padding: 10px 0;
-  text-align: center;
-  z-index: 1000;
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  background-color: #ffffff !important;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1) !important;
+  padding: 10px 0 !important;
+  text-align: center !important;
+  z-index: 1000 !important;
 }
 
 .top-navbar a {
-  color: #007bff;
-  text-decoration: none;
-  margin: 0 15px;
-  font-weight: bold;
+  color: #007bff !important;
+  text-decoration: none !important;
+  margin: 0 15px !important;
+  font-weight: bold !important;
+  display: inline-block !important;
 }
 
 .top-navbar a:hover {
-  text-decoration: underline;
+  text-decoration: underline !important;
 }
 
 body {
-  padding-top: 50px; /* ナビゲーションが上に固定されるため、本文が隠れないように調整 */
+  padding-top: 60px !important; /* ナビゲーションバーの高さ分だけ本文を下にずらす */
 }
