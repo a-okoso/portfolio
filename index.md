@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+<link rel="stylesheet" type="text/css" href="/portfolio/assets/css/style.css">
 <div class="top-navbar">
   <a href="index.html">Home</a>
   <a href="#about-me">About Me</a>
@@ -12,8 +12,8 @@
 ## \# About Me
 <a id="about-me"></a>
 My research interests are in **Human-AI Collaboration** and **Human-AI Interaction**.
-aa ...
-
+aa ...  
+bb ...  
 
 ## \# Publications
 <a id="publications"></a>
