@@ -1,3 +1,8 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="https://a-okoso.github.io/portfolio/assets/css/style.css">
+</head>
+
+
 <link rel="stylesheet" type="text/css" href="https://a-okoso.github.io/portfolio/assets/css/style.css">
 <div class="top-navbar">
   <a href="index.html">Home</a>
@@ -14,6 +19,7 @@
 My research interests are in **Human-AI Collaboration** and **Human-AI Interaction**.  
 aa ...  
 bb ...  
+cc ...
 
 ## \# Publications
 <a id="publications"></a>
