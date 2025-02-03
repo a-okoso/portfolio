@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 <div class="top-navbar">
   <a href="#about-me">About Me</a>
   <a href="#publications">Publications</a>
