@@ -1,5 +1,5 @@
 <head>
-  <link rel="stylesheet" type="text/css" href="./portfolio/assets/css/style.css">
+  <link rel="stylesheet" type="text/css" href="https://a-okoso.github.io/portfolio/assets/css/style.css">
 </head>
 
 
