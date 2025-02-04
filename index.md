@@ -1,9 +1,11 @@
+<!-- 
 <head>
   <link rel="stylesheet" type="text/css" href="https://a-okoso.github.io/portfolio/assets/css/style.css">
 </head>
+-->
 
 
-<link rel="stylesheet" type="text/css" href="https://a-okoso.github.io/portfolio/assets/css/style.css">
+<link rel="stylesheet" type="text/css" href="https://a-okoso.github.io/portfolio/style.css">
 <div class="top-navbar">
   <a href="index.html">Home</a>
   <a href="#about-me">About Me</a>
