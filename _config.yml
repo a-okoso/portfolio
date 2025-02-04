@@ -11,4 +11,4 @@ show_downloads: false
 # Add custom CSS
 include:
   - assets
-  # - assets/css/style.css
+  - assets/css
