@@ -11,13 +11,46 @@ footer {
   display: none;
 }
 
-h2 {
-  margin-bottom: 10px; /* h2の下のスペースを小さく */
+/* About Me のコンテナ */
+.about-container {
+  display: flex;
+  align-items: center;
+  gap: 20px; /* 画像とテキストの間隔 */
 }
 
-h3 {
-  margin-top: 50px; /* h3の上のスペースを小さく */
-  margin-bottom: 5px; /* h3の下のスペースも小さく */
+/* プロフィール画像 */
+.profile-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%; /* 丸いアイコン */
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* アイコンのスタイル */
+.icon {
+  width: 30px;
+  height: 30px;
+  margin: 5px;
+  transition: transform 0.2s ease-in-out;
+}
+
+/* マウスホバー時に拡大 */
+/* .icon:hover {
+  transform: scale(1.2); 
+} */
+
+/* 右側のテキスト */
+.about-text {
+  flex: 1; /* テキストが自動で伸縮 */
+}
+
+/* スマホ対応（縦配置に変更） */
+@media (max-width: 600px) {
+  .about-container {
+    flex-direction: column;
+    text-align: center;
+  }
 }
 
 
