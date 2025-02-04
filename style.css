@@ -4,37 +4,37 @@
 @import "{{ site.theme }}";
 
 footer {
-  display: none !important;
+  display: none;
 }
 
 .btn {
-  display: none !important;
+  display: none;
 }
 
 .top-navbar {
-  position: fixed !important;
-  top: 0 !important;
-  left: 0 !important;
-  width: 100% !important;
-  background-color: #ffffff !important;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1) !important;
-  padding: 10px 0 !important;
-  text-align: center !important;
-  z-index: 1000 !important;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 10px 0;
+  text-align: center;
+  z-index: 1000;
 }
 
 .top-navbar a {
-  color: #007bff !important;
-  text-decoration: none !important;
-  margin: 0 15px !important;
-  font-weight: bold !important;
-  display: inline-block !important;
+  color: #0E3B73;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+  display: inline-block;
 }
 
 .top-navbar a:hover {
-  text-decoration: underline !important;
+  text-decoration: underline;
 }
 
 body {
-  padding-top: 60px !important; /* ナビゲーションバーの高さ分だけ本文を下にずらす */
+  padding-top: 60px;
 }
