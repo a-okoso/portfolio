@@ -11,6 +11,16 @@ footer {
   display: none;
 }
 
+h2 {
+  margin-bottom: 10px; /* h2の下のスペースを小さく */
+}
+
+h3 {
+  margin-top: 5px; /* h3の上のスペースを小さく */
+  margin-bottom: 5px; /* h3の下のスペースも小さく */
+}
+
+
 .top-navbar {
   position: fixed;
   top: 0;
