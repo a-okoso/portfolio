@@ -12,14 +12,25 @@
 
 ## \# About Me
 <a id="about-me"></a>
-My research interests are in **Human-AI Collaboration** and **Human-AI Interaction**.  
-aa ...  
-bb ...  
-cc ...  
-<a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" 
-       alt="X (Twitter)" width="30" height="30">
-</a>
+<div class="about-container">
+  <div class="profile">
+    <img src="https://your-profile-image-url.jpg" alt="Profile Picture" class="profile-img">    
+    <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" 
+           alt="X (Twitter)" class="icon">
+    </a>
+    <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" 
+           alt="Google Scholar" class="icon">
+    </a>
+  </div>
+
+  <!-- 右側のテキスト -->
+  <div class="about-text">
+    My research interests are in **Human-AI Collaboration** and **Human-AI Interaction**.
+  </div>
+</div>
+
 
 ## \# Publications
 <a id="publications"></a>
