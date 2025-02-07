@@ -219,3 +219,20 @@
 ## Others
 <a id="others"></a>
 - JSAI全国大会 2025 オーガナイズドセッション委員
+
+
+<!-- Contact Section -->
+<div class="contact-section">
+  <h2>CONTACT</h2>
+  
+  <p class="contact-name">AYANO OKOSO / 大社 綾乃</p>
+
+  <p class="contact-email">
+    <strong>E-MAIL</strong><br>
+    <ul>
+      <li> business: okoso[at]mosk.tytlabs.co.jp</li>
+      <li> personal: a.okoso.93[at]gmail.com</li>
+    </ul>
+  </p>
+</div>
+
