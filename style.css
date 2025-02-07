@@ -11,6 +11,17 @@ footer {
   display: none;
 }
 
+/* メインコンテンツの見出しだけ適用 */
+.main-content h2 {
+  font-size: 36px !important; /* フォントサイズ */
+  font-weight: bold !important; /* 太字 */
+  color: #159957 !important; /* 見出しの色 */
+  border-bottom: 2px solid #159957 !important; /* 下線 */
+  padding-bottom: 5px !important;
+  margin-bottom: 20px !important;
+}
+
+
 /* About Me のコンテナ */
 .about-container {
   display: flex;
