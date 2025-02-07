@@ -63,6 +63,10 @@
   
 
 ### \#\# Peer-Reviewed Conference Proceedings
+- Do Expressions Change Decisions? Exploring the Impact of AI's Explanation Tone on Decision-Making
+  Ayano Okoso, Mingzhe Yang, Yukino Baba  
+  ACM CHI 2025 (To appear)  
+
 - [Toward Tone-Aware Explanations in Recommender Systems](https://dl.acm.org/doi/10.1145/3627043.3659572)  
   Ayano Okoso, Keisuke Otaki, Satoshi Koide, Yukino Baba  
   ACM UMAP 2024  
