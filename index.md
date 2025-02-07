@@ -11,7 +11,7 @@
 </div>
 
 ## About Me
-<a id="about-me"></a>
+<a id="about-me" class="section"></a>
 <div class="about-container">
   <div class="profile">
     <img src="https://your-profile-image-url.jpg" alt="Profile Picture" class="profile-img">
@@ -46,7 +46,7 @@
 
 
 ## Publications
-<a id="publications"></a>
+<a id="publications" class="section"></a>
 
 ### Peer-Reviewed Journals
 - [High-Dimensional Slider-based Preferential Bayesian Optimization with Mixed Local and Global Acquisition Strategies](https://ieeexplore.ieee.org/document/10577753?denied=)  
@@ -198,7 +198,7 @@
 
 
 ## Awards 🏆 
-<a id="awards"></a>
+<a id="awards" class="section"></a>
 - Webインテリジェンスとインタラクション研究会 2023 萌芽研究賞
 - 情報処理学会 2020年度論文賞
 - 情報処理学会 2019年度特選論文
@@ -206,18 +206,18 @@
 
 
 ## Education
-<a id="education"></a>
+<a id="education" class="section"></a>
 - 2023年 4月〜 東京大学大学院 総合文化研究科 後期博士課程 在籍中
 - 2017年 3月 大阪府立大学大学院 工学研究科 電気情報系専攻 知能情報工学分野 修了
 - 2015年 3月 大阪府立大学 工学部 知能情報工学科 卒
 - 2014年 10月〜12月 ドイツ人工知能研究センター（DFKI）
 
 ## Work Experience
-<a id="work-experience"></a>
+<a id="work-experience" class="section"></a>
 - 2017年 4月〜 株式会社豊田中央研究所
 
 ## Others
-<a id="others"></a>
+<a id="others" class="section"></a>
 - JSAI全国大会 2025 オーガナイズドセッション委員
 
 
