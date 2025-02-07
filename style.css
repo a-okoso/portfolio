@@ -23,43 +23,60 @@ h2 {
 .about-container {
   display: flex;
   align-items: center;
-  gap: 20px; /* 画像とテキストの間隔 */
+  gap: 20px;
+  width: 100%;
 }
 
-/* プロフィール画像 */
+/* 左側のプロフィールエリア */
+.profile {
+  width: 20%; /* 左側を20% */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* プロフィール写真 */
 .profile-img {
   width: 100px;
   height: 100px;
   border-radius: 50%; /* 丸いアイコン */
-  display: block;
   margin-bottom: 10px;
 }
 
-/* アイコンのスタイル */
+/* SNSアイコン */
+.social-icons {
+  display: flex;
+  gap: 10px;
+}
+
 .icon {
   width: 30px;
   height: 30px;
-  margin: 5px;
   transition: transform 0.2s ease-in-out;
 }
 
-/* マウスホバー時に拡大 */
 .icon:hover {
-  transform: scale(1.2); 
+  transform: scale(1.2); /* ホバー時に拡大 */
 }
 
-/* 右側のテキスト */
+/* 右側のテキストエリア */
 .about-text {
-  flex: 1; /* テキストが自動で伸縮 */
+  width: 80%; /* 右側を80% */
+  font-size: 16px;
 }
 
-/* スマホ対応（縦配置に変更） */
+/* スマホ対応（縦に並ぶレイアウト） */
 @media (max-width: 600px) {
   .about-container {
     flex-direction: column;
     text-align: center;
   }
+
+  .profile, .about-text {
+    width: 100%; /* 幅を100%にする */
+  }
 }
+
 
 
 .top-navbar {
