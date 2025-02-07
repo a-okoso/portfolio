@@ -11,6 +11,14 @@ footer {
   display: none;
 }
 
+h2 {
+  font-size: 28px; /* フォントサイズ */
+  font-weight: bold; /* 太字 */
+  color: #159957; /* 見出しの色 */
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+
 /* About Me のコンテナ */
 .about-container {
   display: flex;
@@ -36,9 +44,9 @@ footer {
 }
 
 /* マウスホバー時に拡大 */
-/* .icon:hover {
+.icon:hover {
   transform: scale(1.2); 
-} */
+}
 
 /* 右側のテキスト */
 .about-text {
