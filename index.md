@@ -28,7 +28,7 @@
       </a>
       <!-- メールアイコン -->
       <a href="#contact">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" 
+        <img src="https://fonts.gstatic.com/s/i/materialicons/mail/v11/24px.svg" 
              alt="Email" class="icon">
       </a>
     </div>
