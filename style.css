@@ -16,10 +16,21 @@ footer {
   font-size: 36px !important; /* フォントサイズ */
   font-weight: bold !important; /* 太字 */
   color: #0E3B73 !important; /* 見出しの色 #159957 */
-  border-bottom: 2px solid #159957 !important; /* 下線 */
-  padding-bottom: 5px !important;
+  border-bottom: 2px solid #0E3B73 !important; /* 下線 */
+  padding-bottom: 3px !important;
   margin-bottom: 20px !important;
 }
+
+.main-content h3 {
+  font-size: 22px !important;
+  font-weight: bold !important;
+  color: #0E3B73 !important;
+  margin-top: 5px !important;
+  margin-bottom: 10px !important;
+  border-left: 5px solid #0E3B73 !important; /* `h3` の左にラインを追加 */
+  padding-left: 10px !important; /* 左の余白を調整 */
+}
+
 
 
 /* About Me のコンテナ */
