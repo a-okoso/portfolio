@@ -17,7 +17,7 @@
     <img src="https://your-profile-image-url.jpg" alt="Profile Picture" class="profile-img">
     <div class="social-icons">
       <!-- twitter -->
-      <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+      <a href="https://twitter.com/ay_ok_111" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" 
              alt="X (Twitter)" class="icon">
       </a>
