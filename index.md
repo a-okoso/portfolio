@@ -63,7 +63,7 @@
   
 
 ### Peer-Reviewed Conference Proceedings
-- Do Expressions Change Decisions? Exploring the Impact of AI's Explanation Tone on Decision-Making
+- Do Expressions Change Decisions? Exploring the Impact of AI's Explanation Tone on Decision-Making  
   Ayano Okoso, Mingzhe Yang, Yukino Baba  
   ACM CHI 2025 (To appear)  
 
