@@ -20,7 +20,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" 
              alt="X (Twitter)" class="icon">
       </a>
-      <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank">
+      <a href="https://scholar.google.co.jp/citations?user=6PCLAWgAAAAJ&hl=ja" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" 
              alt="Google Scholar" class="icon">
       </a>
