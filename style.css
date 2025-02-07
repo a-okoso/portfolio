@@ -76,6 +76,8 @@ footer {
 .icon {
   width: 20px;
   height: 20px;
+   max-width: 20px;
+  max-height: 20px;
   transition: transform 0.2s ease-in-out;
 }
 
