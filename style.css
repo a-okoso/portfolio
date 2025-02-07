@@ -11,6 +11,12 @@ footer {
   display: none;
 }
 
+.main-content {
+  padding-top: 10px !important; /* 上の余白を狭める */
+  margin-top: 0px !important;  /* `margin-top` もゼロにしてみる */
+}
+
+
 /* メインコンテンツの見出しだけ適用 */
 .main-content h2 {
   font-size: 36px !important; /* フォントサイズ */
@@ -27,7 +33,7 @@ footer {
   font-weight: bold !important;
   color: #0E3B73 !important;
   margin-top: 5px !important;
-  margin-bottom: 10px !important;
+  margin-bottom: 15px !important;
   border-left: 5px solid #0E3B73 !important; /* `h3` の左にラインを追加 */
   padding-left: 10px !important; /* 左の余白を調整 */
 }
