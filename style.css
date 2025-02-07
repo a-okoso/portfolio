@@ -145,6 +145,12 @@ footer {
   text-decoration: underline;
 }
 
+/* スクロール位置を調整するためのオフセット */
+.section {
+  padding-top: 70px; /* ナビバーの高さ + 余白 */
+  margin-top: -70px; /* 上の空間を打ち消して、見た目を調整 */
+}
+
 body {
   padding-top: 60px;
 }
