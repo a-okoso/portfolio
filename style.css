@@ -94,7 +94,10 @@ footer {
   font-size: 14px;
   color: #333;
   margin-top: 50px; /* メインコンテンツとの間隔 */
+  width: 100%;
+  display: block; /* フッターが非表示にならないように */
 }
+
 
 /* フッター内のコンテンツ */
 .footer-content {
