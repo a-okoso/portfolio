@@ -16,13 +16,20 @@
   <div class="profile">
     <img src="https://your-profile-image-url.jpg" alt="Profile Picture" class="profile-img">
     <div class="social-icons">
+      <!-- twitter -->
       <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" 
              alt="X (Twitter)" class="icon">
       </a>
+      <!-- google scholar -->
       <a href="https://scholar.google.co.jp/citations?user=6PCLAWgAAAAJ&hl=ja" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" 
              alt="Google Scholar" class="icon">
+      </a>
+      <!-- メールアイコン -->
+      <a href="#contact">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" 
+             alt="Email" class="icon">
       </a>
     </div>
   </div>
@@ -222,7 +229,7 @@
 
 
 <!-- Footer (Contact Section) -->
-<footer class="page-footer">
+<footer class="page-footer" id="contact">
   <div class="footer-content">
     <p class="contact-name">AYANO OKOSO / 大社 綾乃</p>
     <p class="contact-email">
