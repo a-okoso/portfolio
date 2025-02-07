@@ -32,7 +32,7 @@ footer {
 
 /* 左側のプロフィールエリア */
 .profile {
-  width: 20%; /* 左側を20% */
+  width: 30%; /* 左側を30% */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -40,21 +40,21 @@ footer {
 
 /* プロフィール写真 */
 .profile-img {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%; /* 丸いアイコン */
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 /* SNSアイコン */
 .social-icons {
   display: flex;
-  gap: 10px;
+  gap: 20px;
 }
 
 .icon {
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
   transition: transform 0.2s ease-in-out;
 }
 
@@ -64,7 +64,7 @@ footer {
 
 /* 右側のテキストエリア */
 .about-text {
-  width: 80%; /* 右側を80% */
+  width: 70%; /* 右側を70% */
   font-size: 16px;
 }
 
