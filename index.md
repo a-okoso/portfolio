@@ -10,7 +10,7 @@
   <a href="#others">Others</a>
 </div>
 
-## \# About Me
+## About Me
 <a id="about-me"></a>
 <div class="about-container">
   <div class="profile">
@@ -34,10 +34,10 @@
 </div>
 
 
-## \# Publications
+## Publications
 <a id="publications"></a>
 
-### \#\# Peer-Reviewed Journals
+### Peer-Reviewed Journals
 - [High-Dimensional Slider-based Preferential Bayesian Optimization with Mixed Local and Global Acquisition Strategies](https://ieeexplore.ieee.org/document/10577753?denied=)  
   Satoshi Koide, Ayano Okoso  
   IEEE ACESS (2024)  
@@ -62,7 +62,7 @@
 
   
 
-### \#\# Peer-Reviewed Conference Proceedings
+### Peer-Reviewed Conference Proceedings
 - Do Expressions Change Decisions? Exploring the Impact of AI's Explanation Tone on Decision-Making
   Ayano Okoso, Mingzhe Yang, Yukino Baba  
   ACM CHI 2025 (To appear)  
@@ -124,7 +124,7 @@
   ACM AH 2014  
 
 
-### \#\# Other Publications
+### Other Publications
 - [Impact of Tone-Aware Explanations in Recommender Systems](https://arxiv.org/pdf/2405.05061)  
   Ayano Okoso, Keisuke Otaki, Satoshi Koide, Yukino Baba  
   arXiv preprint (2024)  
@@ -186,7 +186,7 @@
   
 
 
-## \# Awards 🏆 
+## Awards 🏆 
 <a id="awards"></a>
 - Webインテリジェンスとインタラクション研究会 2023 萌芽研究賞
 - 情報処理学会 2020年度論文賞
@@ -194,17 +194,17 @@
 - JAWS2019 優秀ポスター発表賞
 
 
-## \# Education
+## Education
 <a id="education"></a>
 - 2023年 4月〜 東京大学大学院 総合文化研究科 後期博士課程 在籍中
 - 2017年 3月 大阪府立大学大学院 工学研究科 電気情報系専攻 知能情報工学分野 修了
 - 2015年 3月 大阪府立大学 工学部 知能情報工学科 卒
 - 2014年 10月〜12月 ドイツ人工知能研究センター（DFKI）
 
-## \# Work Experience
+## Work Experience
 <a id="work-experience"></a>
 - 2017年 4月〜 株式会社豊田中央研究所
 
-## \# Others
+## Others
 <a id="others"></a>
 - JSAI全国大会 2025 オーガナイズドセッション委員
