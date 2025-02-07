@@ -64,10 +64,13 @@ footer {
   margin-bottom: 20px;
 }
 
-/* SNSアイコン */
+
+/* SNSアイコンのスタイル */
 .social-icons {
   display: flex;
   gap: 20px;
+  justify-content: center; /* アイコンを中央配置 */
+  margin-top: 10px;
 }
 
 .icon {
