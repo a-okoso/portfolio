@@ -12,7 +12,7 @@ footer {
 }
 
 .main-content {
-  padding-top: 10px !important; /* 上の余白を狭める */
+  padding-top: 0px !important; /* 上の余白を狭める */
   margin-top: 0px !important;  /* `margin-top` もゼロにしてみる */
 }
 
@@ -29,7 +29,7 @@ footer {
 }
 
 .main-content h3 {
-  font-size: 22px !important;
+  font-size: 24px !important;
   font-weight: bold !important;
   color: #0E3B73 !important;
   margin-top: 5px !important;
