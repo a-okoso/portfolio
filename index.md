@@ -56,17 +56,21 @@
 <a id="publications" class="section"></a>
 
 ### Peer-Reviewed Journals
+- [Impact of Tone-Aware Explanations in Recommender Systems]  
+  Ayano Okoso, Keisuke Otaki, Koide Satoshi, Yukino Baba  
+  ACM Transactions on Recommender Systems 2024 (To appear)  
+
 - [High-Dimensional Slider-based Preferential Bayesian Optimization with Mixed Local and Global Acquisition Strategies](https://ieeexplore.ieee.org/document/10577753?denied=)  
   Satoshi Koide, Ayano Okoso  
-  IEEE ACESS (2024)  
+  IEEE ACESS 2024  
 
 - [A Case Study on Recommender Systems in Online Conferences: Behavioral Analysis through A/B Testing](https://www.jstage.jst.go.jp/article/transinf/E107.D/5/E107.D_2023DAP0008/_pdf)  
   Ayano Okoso, Keisuke Otaki, Yoshinao Ishii, Satoshi Koide  
-  IEICE TRANSACTIONS on Information and Systems (2024)  
+  IEICE TRANSACTIONS on Information and Systems 2024  
 
 - [活動文脈を考慮した SP 調査に基づく移動店舗の選択要因分析](https://www.jstage.jst.go.jp/article/jscejj/79/20/79_23-20010/_article/-char/ja/)  
   西智樹， 吉田広顕， 大社綾乃， 原祐輔  
-  土木学会論文集 (2023)  
+  土木学会論文集 2023  
 
 - [車群経路計画のための空間構造特徴を用いた発見的解法](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=199715&item_no=1&page_id=13&block_id=8)  
   大滝啓介， 大社綾乃， 西智樹  
