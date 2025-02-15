@@ -56,7 +56,7 @@
 <a id="publications" class="section"></a>
 
 ### Peer-Reviewed Journals
-- [Impact of Tone-Aware Explanations in Recommender Systems]  
+- Impact of Tone-Aware Explanations in Recommender Systems  
   Ayano Okoso, Keisuke Otaki, Koide Satoshi, Yukino Baba  
   ACM Transactions on Recommender Systems 2024 (To appear)  
 
