@@ -62,7 +62,9 @@ footer {
   height: 150px;
   border-radius: 50%; /* 丸いアイコン */
   margin-bottom: 20px;
+  object-fit: cover; /* 縦横比を維持しながら、枠にフィット */
 }
+
 
 
 /* SNSアイコンのスタイル */
