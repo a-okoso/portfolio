@@ -10,7 +10,7 @@
   <a href="#others">Others</a>
 </div>
 
-## About Me 🌷
+## About Me 🚀
 <a id="about-me" class="section"></a>
 <div class="about-container">
   <div class="profile">
@@ -223,7 +223,7 @@
 - 2015年 3月 大阪府立大学 工学部 知能情報工学科 卒
 - 2014年 10月〜12月 ドイツ人工知能研究センター（DFKI）
 
-## Work Experience 
+## Work Experience 💼
 <a id="work-experience" class="section"></a>
 - 2017年 4月〜 株式会社豊田中央研究所
 
