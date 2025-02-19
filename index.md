@@ -14,7 +14,7 @@
 <a id="about-me" class="section"></a>
 <div class="about-container">
   <div class="profile">
-    <img src="https://drive.google.com/uc?id=18W4qSn55OiHlMYlhad1SWAnJsI-21X6r" alt="Profile Picture" class="profile-img">
+    <img src="assetes/profile.jpg" alt="Profile Picture" class="profile-img">
     <div class="social-icons">
       <!-- twitter -->
       <a href="https://twitter.com/ay_ok_111" target="_blank">
