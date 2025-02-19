@@ -10,7 +10,7 @@
   <a href="#others">Others</a>
 </div>
 
-## About Me
+## About Me 🌷
 <a id="about-me" class="section"></a>
 <div class="about-container">
   <div class="profile">
@@ -52,7 +52,7 @@
 </div>
 
 
-## Publications
+## Publications 📄
 <a id="publications" class="section"></a>
 
 ### Peer-Reviewed Journals
@@ -216,18 +216,18 @@
 - JAWS2019 優秀ポスター発表賞
 
 
-## Education
+## Education 🎓
 <a id="education" class="section"></a>
 - 2023年 4月〜 東京大学大学院 総合文化研究科 後期博士課程 在籍中
 - 2017年 3月 大阪府立大学大学院 工学研究科 電気情報系専攻 知能情報工学分野 修了
 - 2015年 3月 大阪府立大学 工学部 知能情報工学科 卒
 - 2014年 10月〜12月 ドイツ人工知能研究センター（DFKI）
 
-## Work Experience
+## Work Experience 
 <a id="work-experience" class="section"></a>
 - 2017年 4月〜 株式会社豊田中央研究所
 
-## Others
+## Others 🧸
 <a id="others" class="section"></a>
 - JSAI全国大会 2025 オーガナイズドセッション委員
 
