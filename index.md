@@ -38,14 +38,14 @@
   <div class="about-text">
      <p>
       I am a researcher at Toyota Central R&D Labs., Inc. and 
-       a Ph.D. student in the <a href="https://bb.c.u-tokyo.ac.jp/" target="_blank">Baba Lab.</a> at The University of Tokyo.
+       a Ph.D. student in <a href="https://bb.c.u-tokyo.ac.jp/" target="_blank">Baba Lab.</a> at The University of Tokyo.
     </p>
     <p>
       My recent research interests include <strong>human-AI collaboration</strong>, 
       <strong>human-AI interaction</strong>, and <strong>recommender systems</strong>.
     </p>
     <p>
-      Additionally, I have worked on rideshare optimization and multi-agent path planning (MAPF).
+      Additionally, I have worked on rideshare optimization and multi-agent path finding (MAPF).
     </p>
   </div>
 
