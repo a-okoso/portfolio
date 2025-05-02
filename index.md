@@ -56,9 +56,9 @@
 <a id="publications" class="section"></a>
 
 ### Peer-Reviewed Journals
-- Impact of Tone-Aware Explanations in Recommender Systems  
+- [Impact of Tone-Aware Explanations in Recommender Systems](https://dl.acm.org/doi/10.1145/3718101)  
   Ayano Okoso, Keisuke Otaki, Koide Satoshi, Yukino Baba  
-  ACM Transactions on Recommender Systems 2024 (To appear)  
+  ACM Transactions on Recommender Systems 2024  
 
 - [High-Dimensional Slider-based Preferential Bayesian Optimization with Mixed Local and Global Acquisition Strategies](https://ieeexplore.ieee.org/document/10577753?denied=)  
   Satoshi Koide, Ayano Okoso  
@@ -85,9 +85,9 @@
   
 
 ### Peer-Reviewed Conference Proceedings
-- Do Expressions Change Decisions? Exploring the Impact of AI's Explanation Tone on Decision-Making  
+- [Do Expressions Change Decisions? Exploring the Impact of AI's Explanation Tone on Decision-Making](https://dl.acm.org/doi/10.1145/3706598.3713744)  
   Ayano Okoso, Mingzhe Yang, Yukino Baba  
-  ACM CHI 2025 (To appear)  
+  ACM CHI 2025  
 
 - [Toward Tone-Aware Explanations in Recommender Systems](https://dl.acm.org/doi/10.1145/3627043.3659572)  
   Ayano Okoso, Keisuke Otaki, Satoshi Koide, Yukino Baba  
