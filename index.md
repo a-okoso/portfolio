@@ -26,6 +26,11 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" 
              alt="Google Scholar" class="icon">
       </a>
+      <!-- linkedin -->
+      <a href="https://www.linkedin.com/in/ayano-okoso-216423362" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
+             alt="LinkedIn" class="icon">
+      </a>
       <!-- メールアイコン -->
       <a href="#contact">
         <img src="https://fonts.gstatic.com/s/i/materialicons/mail/v11/24px.svg" 
