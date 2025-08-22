@@ -62,7 +62,7 @@
 
 ### Peer-Reviewed Journals
 - [Impact of Tone-Aware Explanations in Recommender Systems](https://dl.acm.org/doi/10.1145/3718101)  
-  Ayano Okoso, Keisuke Otaki, Koide Satoshi, Yukino Baba  
+  <span class="me">Ayano Okoso</span>, Keisuke Otaki, Koide Satoshi, Yukino Baba  
   ACM Transactions on Recommender Systems 2024  
 
 - [High-Dimensional Slider-based Preferential Bayesian Optimization with Mixed Local and Global Acquisition Strategies](https://ieeexplore.ieee.org/document/10577753?denied=)  
