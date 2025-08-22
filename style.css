@@ -130,7 +130,7 @@ footer {
 /* 著者アンダーライン */
 .me {
   display: inline-block;  
-  background: linear-gradient(transparent 80%, rgba(255, 235, 59, 0.5) 80%);
+  background: linear-gradient(transparent 85%, rgba(255, 235, 59, 0.3) 88%);
 }
 
 
