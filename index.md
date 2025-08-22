@@ -98,15 +98,15 @@
   <span class="me">Ayano Okoso</span>, Keisuke Otaki, Satoshi Koide, Yukino Baba  
   ACM UMAP 2024  
 
-- [High density automated valet parking via multi-agent path finding](https://ieeexplore.ieee.org/document/9922035)  
+- [High Density Automated Valet Parking via Multi-agent Path Finding](https://ieeexplore.ieee.org/document/9922035)  
   <span class="me">Ayano Okoso</span>, Keisuke Otaki, Satoshi Koide, Tomoki Nishi  
   IEEE ITSC 2022  
 
-- [Network-flow-problem-based approach to multi-agent path finding for connected autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/9564399)  
+- [Network-Flow-Problem-Based Approach to Multi-Agent Path Finding for Connected Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9564399)  
   <span class="me">Ayano Okoso</span>, Bunyo Okumura, Keisuke Otaki, Tomoki Nishi  
   IEEE ITSC 2021  
 
-- [Multi-agent path finding with destination choice](https://link.springer.com/chapter/10.1007/978-3-030-69322-0_26)  
+- [Multi-Agent Path Finding with Destination Choice](https://link.springer.com/chapter/10.1007/978-3-030-69322-0_26)  
   <span class="me">Ayano Okoso</span>, Keisuke Otaki, Tomoki Nishi  
   Springer PRIMA 2020  
 
@@ -114,31 +114,31 @@
   Keisuke Otaki, Satoshi Koide, <span class="me">Ayano Okoso</span>, Tomoki Nishi  
   Springer PRIMA 2020  
 
-- [Cooperative routing problem between customers and vehicles for on-demand mobile facility services](https://www.researchgate.net/profile/Tomoki-Nishi/publication/344475518_Cooperative_Routing_Problem_between_Customers_and_Vehicles_for_On-demand_Mobile_Facility_Services/links/5f7b072292851c14bcaee5cc/Cooperative-Routing-Problem-between-Customers-and-Vehicles-for-On-demand-Mobile-Facility-Services.pdf)  
+- [Cooperative Routing Problem between Customers and Vehicles for On-demand Mobile Facility Services](https://ieeexplore.ieee.org/document/9294281)  
   Tomoki Nishi, Keisuke Otaki, <span class="me">Ayano Okoso</span>, Alex Fukunaga  
   IEEE ITSC 2020  
 
-- [Cooperative path planning for heterogeneous agents](https://ojs.aaai.org/index.php/SOCS/article/view/18526)  
+- [CCooperative Path Planning for Heterogeneous Agents](https://ojs.aaai.org/index.php/SOCS/article/view/18526)  
   Keisuke Otaki, Satoshi Koide, <span class="me">Ayano Okoso</span>, Tomoki Nishi  
   SoCS 2020  
 
-- [Multi-agent path planning with heterogeneous cooperation](https://ieeexplore.ieee.org/abstract/document/8995414)  
+- [Multi-agent Path Planning with Heterogeneous Cooperation](https://ieeexplore.ieee.org/abstract/document/8995414)  
   Keisuke Otaki, Satoshi Koide, Keiichiro Hayakawa, <span class="me">Ayano Okoso</span>, Tomoki Nishi  
   ICTAI 2019  
 
-- [Multi-agent path finding with priority for cooperative automated valet parking](https://ieeexplore.ieee.org/abstract/document/8917112)  
+- [Multi-Agent Path Finding with Priority for Cooperative Automated Valet Parking](https://ieeexplore.ieee.org/abstract/document/8917112)  
   <span class="me">Ayano Okoso</span>, Keisuke Otaki, Tomoki Nishi  
   IEEE ITSC 2019  
 
-- [Cooperative routing with heterogeneous vehicles](https://www.researchgate.net/profile/Tomoki-Nishi/publication/333671030_Cooperative_Routing_with_Heterogeneous_Vehicles/links/5e319f00a6fdccd9657654e7/Cooperative-Routing-with-Heterogeneous-Vehicles.pdf)  
+- [Cooperative Routing with Heterogeneous Vehicles](https://dl.acm.org/doi/10.5555/3306127.3332040)  
   Keisuke Otaki, Satoshi Koide, <span class="me">Ayano Okoso</span>, Tomoki Nishi  
   AAMAS 2019  
 
-- [Identification of reader specific difficult words by analyzing eye gaze and document content](https://ieeexplore.ieee.org/abstract/document/8270152)  
+- [Identification of Reader Specific Difficult Words by Analyzing Eye Gaze and Document Content](https://ieeexplore.ieee.org/abstract/document/8270152)  
   Utpal Garain, Onkar Pandit, Olivier Augereau, <span class="me">Ayano Okoso</span>, Koichi Kise  
   IEEE ICDAR 2017  
 
-- [Towards extraction of subjective reading incomprehension: Analysis of eye gaze features](https://dl.acm.org/doi/abs/10.1145/2702613.2732896)  
+- [Towards Extraction of Subjective Reading Incomprehension: Analysis of Eye Gaze Features](https://dl.acm.org/doi/abs/10.1145/2702613.2732896)  
   <span class="me">Ayano Okoso</span>, Takumi Toyama, Kai Kunze, Joachim Folz, Marcus Liwicki, Koichi Kise  
   ACM CHI EA 2015  
 
