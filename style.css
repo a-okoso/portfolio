@@ -127,8 +127,10 @@ footer {
   margin-bottom: 10px;
 }
 
+/* 著者アンダーライン */
 .me {
-  background: linear-gradient(transparent 70%, #ffeb3b 70%);
+  display: inline-block;  
+  background: linear-gradient(transparent 80%, rgba(255, 235, 59, 0.5) 80%);
 }
 
 
